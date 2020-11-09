@@ -1,4 +1,4 @@
-# Java 11 + JUnit5 Quickstart Maven Archetype
+# Maven Quickstart Archetype - Java 11 + JUnit5
 
 ## Summary
 The project is a Maven archetype for Java 11 and JUnit5
@@ -12,7 +12,7 @@ The project is a Maven archetype for Java 11 and JUnit5
 To install the archetype in your local repository execute the following commands:
 
 ```bash
-git clone https://github.com/cloudacademy/java11-junit5-archetype.git
+git clone https://github.com/jeremycook123/java11-junit5-archetype.git
 cd java11-junit5-archetype
 mvn clean install
 ```
