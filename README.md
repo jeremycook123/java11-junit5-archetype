@@ -21,7 +21,7 @@ mvn clean install
 
 ```bash
 mvn archetype:generate \
- -DarchetypeGroupId=com.cloudacademy \
+ -DarchetypeGroupId=com.cloudacademy.devops \
  -DarchetypeArtifactId=java11-junit5-archetype \
  -DarchetypeVersion=1.0.0-SNAPSHOT \
  -DgroupId=com.example       \
