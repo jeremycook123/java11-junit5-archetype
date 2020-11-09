@@ -17,14 +17,14 @@ cd java11-junit5-archetype
 mvn clean install
 ```
 
-## Maven Create Project
+## Maven Create/Generate New Java Project
 
 ```bash
 mvn archetype:generate \
  -DarchetypeGroupId=com.cloudacademy.devops \
  -DarchetypeArtifactId=java11-junit5-archetype \
  -DarchetypeVersion=1.0.0-SNAPSHOT \
- -DgroupId=com.example       \
- -DartifactId=my-project      \
+ -DgroupId=com.example \
+ -DartifactId=my-project \
  -DinteractiveMode=false
 ```
